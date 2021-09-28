@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+.some\:escapedClassName {
+  background-color: rebeccapurple;
+  color: lightpink;
+}
+
+.some\:escapedClassName:hover {
+  background-color: seagreen;
+  color: aquamarine;
+}
